@@ -27,6 +27,8 @@ This is a machine learning algorithm in order to predict the three dimensional s
 
 Proteins are essentially molecules made of amino acids connected with peptide bonds. The structure of protein is organized into four structures; primary, secondary, tertiary, and quaternary. The primary structure is a linear order of amino acids connected by peptide bonds, but the linear sequence is determined upon the genetic information (DNA) that specifically tells the sequence within the protein. The secondary structure is the patterns of folding of the amino acid sequence. These patterns are called alpha-helices, beta pleated sheets, and random coil regions. The difference between all these types of secondary protein structures are the spatial arrangement, for example in a alpha-helix amino acids are arranged in a spiral, while the beta-pleated sheets are arranged in a pattern of zig zags. While the random coil regions are arranged randomly hence the name random. The tertiary structure is 
 
+
+
 ![overview of protein structure](https://user-images.githubusercontent.com/63524391/229656505-5670917a-1d9f-4d49-9bac-c2100618336e.png)
 Figure 1: An overview of a protein structure broken down to it's four structures.
 
