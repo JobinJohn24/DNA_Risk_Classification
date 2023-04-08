@@ -39,6 +39,10 @@ The protein structure prediction model has plenty of real world applications. Th
 
 The protein structure prediction model can come with various limitations and challenges. These challenges can vary from the complexity of the information that’s being inputted into the model and outputted from the information that’s given, the limiting accuracy although it’s a machine learning protein structure prediction model compared to the traditional way to obtaining the three dimensional structure of a given protein, which in this case is called X-ray crystallography. X-ray crystallography is a technique for determining the structure of macromolecules and proteins from a crystallized version of the protein. A crystallized version of a protein is obtained by exposing it to high concentration of x-ray beams. In terms of precision, X-ray crystallography would be considered as the more precision tool for predicting three dimensional protein structures because of their higher resolution images and locations for particular atoms within the protein structure.
 
+## Flowchart of the Machine Learning Protein Structure Predictor
+
+![Template-free modeling flowchart](https://user-images.githubusercontent.com/63524391/230694235-c7e2beb7-1e7c-4b4f-9783-3cd008d17ef8.png)
+
 
 ## Disclaimer
 
@@ -52,6 +56,7 @@ This python-based machine learning algorithm was designed and updated by Jobin J
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1186895/
 - https://pubmed.ncbi.nlm.nih.gov/31942072/
 - https://www.sciencedirect.com/science/article/pii/S2405471219300766
+- https://www.science.org/content/article/researchers-unveil-phenomenal-new-ai-predicting-protein-structures
 
 
 
