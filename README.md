@@ -43,6 +43,18 @@ The protein structure prediction model can come with various limitations and cha
 
 ![Template-free modeling flowchart](https://user-images.githubusercontent.com/63524391/230694235-c7e2beb7-1e7c-4b4f-9783-3cd008d17ef8.png)
 
+## Importance of Amino Acid Residues
+
+Scatter plots are important as they’re used as a visualization tool. A tool often used in the field of bioinformatics. They use scatter plots to visualize the spatial distribution of amino acid residues. This process is the majority of its position because of its significant impact on the protein’s functions and properties. The scatter plots for each protein source that’s being researched can be used to identify patterns within the data to help in predicting the protein structure and show professions the irregularities that the residue may or may not have. This information can aid in increasing the accuracy of the machine learning algorithm. The following scatter plots are a representation of the hemoglobin proteins that’ll be put into the machine learning algorithm. These scatter plots represent the amino acids in the residue, henche the different colors all bunched up.
+
+![1a3n](https://user-images.githubusercontent.com/63524391/236285443-b773ee1c-7274-4dd9-acdb-6ca45fb6de6c.png)
+
+![1bbb](https://user-images.githubusercontent.com/63524391/236285499-75d3f0e0-43cb-4340-b81e-55470199b0e1.png)
+
+![1c7c](https://user-images.githubusercontent.com/63524391/236285521-daee72c7-13b0-421b-b43a-e84f8d18aa64.png)
+
+
+
 
 ## Disclaimer
 
