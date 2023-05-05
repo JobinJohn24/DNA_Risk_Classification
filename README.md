@@ -2,7 +2,7 @@
 
 ## Brief Description
 
-This is a python-based machine learning algorithm to predict the three-dimensional structure of a given sequence of amino acids. This predictor is still being actively studied in the field of computational biology. This will be looking particularly at the proteins responsible for transporting oxygen beneficial for the immune system, hemoglobin. More spefically, the hemoglobin proteins that's being researched along this project are Deoxy Human Hemoglobin, Third Quaternary Structure of Human Hemoglobin A at 1.7 Angstroms, and the Hemoglobin Subunit beta. We'll discuss along the project about using spaitial distribution analysis through data visualization, and the main focus is the target variable which is the stability of predicted protein structure under different temperature conditions. 
+This is a python-based machine learning algorithm to predict the three-dimensional structure of a given sequence of amino acids. This predictor is still being actively studied in the field of computational biology. This will be looking particularly at the proteins responsible for transporting oxygen beneficial for the immune system, hemoglobin. More spefically, the hemoglobin proteins that's being researched along this project are Deoxy Human Hemoglobin, Third Quaternary Structure of Human Hemoglobin A at 1.7 Angstroms, and the Hemoglobin Subunit beta. We'll discuss along the project about using spaitial distribution analysis through data visualization, and the main focus is the target variable which is the Gibbs free energy of the researched proteins. 
 
 ## Data Sources
 
