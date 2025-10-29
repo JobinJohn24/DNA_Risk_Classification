@@ -1,10 +1,10 @@
 # Secondary Structure Predictor: DNA Risk Classification via Knot Theory
 
-A bioinformatics pipeline integrating knot theory with genomic analysis to classify synthetic DNA sequences by structural and biological risk. Uses five complementary metrics for comprehensive risk assessment in genetic engineering applications.
+This bioinformatics pipeline brings together knot theory and genomic analysis. It aims to classify synthetic DNA sequences based on their structural and biological risks. The setup relies on five complementary metrics. Those metrics offer a thorough risk assessment for use in genetic engineering projects.
 
 ## Overview
 
-This project analyzes 20 diverse DNA sequences (low to medium-high risk profiles) leveraging knot invariants and biophysical properties to predict secondary structure formation. By combining topological analysis with traditional bioinformatics, it provides novel risk stratification for synthetic biology.
+This project looks twenty diverse DNA sequences. They cover risk profiles from low to medium-high. It draws on knot invariants and biophysical properties to predict secondary structure formation. The approach mixes topological analysis with standard bioinformatics methods. In that way, it offers a fresh take on risk stratification for synthetic biology.
 
 ## Dataset Profile
 
@@ -43,13 +43,9 @@ This project analyzes 20 diverse DNA sequences (low to medium-high risk profiles
 ![Risk Distribution](https://github.com/JobinJohn24/Secondary-Structure-Predictor/blob/main/analysis/risk_distribution.png)
 *Figure 1.7 - Represents the distribution of clusters of high-risk regions versus broadly stable zones.*
 
-## Key Findings
+## Results Interpretation
 
-**Effective Stratification**: Five-metric approach successfully classified sequences across risk spectrum  
-**Strong Correlation**: Topological features show high predictive value for structural stability  
-**GC Sweet Spot**: 50–60% range optimal for synthetic biology applications  
-**Entropy Matters**: Lower entropy sequences demonstrate significantly higher secondary structure propensity  
-**Codon Considerations**: GAT/GAC dominance indicates expression-level design considerations  
+The five-metric approach worked well for stratifying things. It classified sequences right across the risk spectrum in an effective way. Topological features had a strong correlation. They showed high predictive value when it came to structural stability. The GC content sweet spot sits in the 50 to 60 percent range. That turns out optimal for applications in synthetic biology. Entropy plays a real role here. Sequences with lower entropy demonstrated significantly higher propensity for secondary structure. Codon choices matter too. The dominance of GAT and GAC points to considerations in design at the expression level.
 
 ## Quick Start
 
