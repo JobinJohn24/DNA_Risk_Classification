@@ -1,4 +1,4 @@
-# 🧬🪢 Secondary Structure Predictor: DNA Risk Classification 🧬🪢
+# 🧬🪢 DNA Risk Classification 🧬🪢
 
 This bioinformatics pipeline brings together knot theory and genomic analysis. It aims to classify synthetic DNA sequences based on their structural and biological risks. The setup relies on five complementary metrics. Those metrics offer a thorough risk assessment for use in genetic engineering projects.
 
